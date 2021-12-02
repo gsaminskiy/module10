@@ -26,7 +26,7 @@ touch /var/www/mydomain/answer.html
 echo ""
 echo "<!DOCTYPE html><html><body><h1>Тестовая страница для проверки задания</h1><p>Россия хорошо, на здоровье, плосокгубцы</p></body></html>" >> /var/www/mydomain/answer.html
 sleep 1
-echo "В качестве ответа на это задание вам надо отправить скриншот адреса http://example.com/answer.html"
+
 echo ""
 sleep 1
 echo "Кстати, пока вы читали этот текст, мы успели сломать ваш веб-сервер"
